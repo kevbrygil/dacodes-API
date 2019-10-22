@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [dev-packages]
+pytest = "==5.2.1"
 
 [packages]
 asn1crypto = "==1.2.0"
@@ -28,7 +29,6 @@ py = "==1.8.0"
 pycparser = "==2.19"
 pygogo = "==0.12.0"
 PyJWT = "==1.7.1"
-pytest = "==5.2.1"
 python-mimeparse = "==1.6.0"
 pytz = "==2019.3"
 six = "==1.12.0"
