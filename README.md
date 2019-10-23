@@ -8,12 +8,13 @@ fast micro-services. It is very flexible as it permits us to install add-ons and
 libraries (e.g. Jinja2, SqlAlchemy, etc) easily. It encourages the REST architectural style,
 and tries to do as little as possible while remaining highly effective and its documentation
 is not so extensive and it's very understanble.
-
-A good explanation:
-https://eshlox.net/2017/08/26/do-you-want-to-use-django-for-rest-api-consider-it
 ```
 
-### Instación
+A good explanation:
+
+[**https://eshlox.net/2017/08/26/do-you-want-to-use-django-for-rest-api-consider-it**](https://eshlox.net/2017/08/26/do-you-want-to-use-django-for-rest-api-consider-it)
+
+### Instalación
 
 Ver archivo Install.pdf
 
@@ -23,7 +24,7 @@ Ver archivo API-Endpoint.pdf
 
 ### Librerias y Frameworks
 
-**Marshmallow**: Para realizar validaciones y la serializacion de objetos, tiene buena documentación. [is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.]
+**Marshmallow**: Para realizar validaciones y la serialización de objetos, tiene buena documentación. [is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.]
 
 **SQLAlchemy**: Por el tiempo corto, un ORM puede ayudar para la comunicación con la bd. [SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
