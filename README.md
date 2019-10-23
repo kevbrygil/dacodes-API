@@ -19,7 +19,7 @@ Ver archivo Install.pdf
 
 ### Documentación
 
-Ver archivo API-Enpoint.pdf
+Ver archivo API-Endpoint.pdf
 
 ### Librerias y Frameworks
 
