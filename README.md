@@ -11,6 +11,7 @@ is not so extensive and it's very understanble.
 ```
 
 A good explanation:
+
 [**https://eshlox.net/2017/08/26/do-you-want-to-use-django-for-rest-api-consider-it**](https://eshlox.net/2017/08/26/do-you-want-to-use-django-for-rest-api-consider-it)
 
 ### Instación
