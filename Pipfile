@@ -38,4 +38,4 @@ ujson = "==1.35"
 zope.interface = "==4.6.0"
 
 [requires]
-python_version = "3.7"
+python_version = "3.7.5"
